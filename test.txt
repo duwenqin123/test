@@ -1,5 +1,0 @@
-print("hello world")
-i
-hel world
-pw234 hi
-print("Hi ")
