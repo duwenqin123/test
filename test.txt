@@ -1,2 +1,4 @@
 print("hello world")
 "woqu"
+print("simple")
+print("The next simple")
